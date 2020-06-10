@@ -5,3 +5,4 @@ Take an image of a document at any orientation at any lighting, the program will
 
 ## Output Image
 ![Doc](https://github.com/absolution747/Document-Scanner/blob/master/Document.jpg)
+ 
